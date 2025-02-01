@@ -1,6 +1,5 @@
-<div align="center">
+
 # Text Summarizer with Transformers
-</div>
 
 <div align="center">
 
